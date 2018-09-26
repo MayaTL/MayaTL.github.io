@@ -2,6 +2,10 @@
 body {
 	font-family: "Georgia", "Times", "sans-serif";
 	font-size: 100%;
+	background-image: url("neuralnets.jpg");
+	background-attachment: fixed;
+	background-position: center;
+	background-size: cover;
 }
 
 h1 {
@@ -9,6 +13,7 @@ h1 {
 	font-stretch: ultra-expanded;
 	font-weight: bolder;
 	font-style: italic;
+	font
 
 }
 
@@ -31,6 +36,7 @@ h5 {
 
 p {
 	font-size: 1em;
+	text-align: 
 }
 
 
