@@ -33,7 +33,7 @@ h4 {
 }
 
 h5 {
-	font-size: 1vw;
+	font-size: 2vw;
 	color: #FFFFFF;
 }
 
@@ -53,12 +53,75 @@ ul {
 	color: #FFFFFF;
 }
 
+dl {
+	color: #FFFFFF;
+}
+
 #box-one {
-	background-color: #C70039;
+	background-color: rgba(255,195,0,0.75);
+	padding-right: 10px;
+	padding-left: 10px;
+	padding-top: 5px;
+	padding-bottom: 5px;
 }
 
 #box-two {
 	background-color: rgba(177,255,210,0.75);
-	padding: 10px;
+	padding: 7px;
 
 }
+
+#box-three {
+	background-color: rgba(74, 237, 255,0.75);
+	padding-right: 10px;
+	padding-left: 10px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+#box-four {
+	background-color: rgba(74, 164, 255,0.75);
+	padding-right: 10px;
+	padding-left: 10px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+#box-five {
+	background-color: rgba(255, 74, 119,0.75);
+	padding-right: 10px;
+	padding-left: 10px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+#box-six {
+	background-color: rgba(77, 74, 255,0.75);
+	padding-right: 10px;
+	padding-left: 10px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+#box-seven {
+	background-color: rgba(0, 180, 71,0.75);
+	padding-right: 10px;
+	padding-left: 10px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+#box-eight {
+	background-color: rgba(89, 173, 0,0.75);
+	padding-right: 10px;
+	padding-left: 10px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+
+
+
+
+
+
