@@ -1,8 +1,44 @@
+
+body {
+	font-family: "Georgia", "Times", "sans-serif";
+	font-size: 100%;
+}
+
+h1 {
+	font-size: 8vw;
+	font-stretch: ultra-expanded;
+	font-weight: bolder;
+	font-style: italic;
+
+}
+
+h2 {
+	font-size: 4vw;
+
+}
+
+h3 {
+	font-size: 3vw;
+}
+
+h4 {
+	font-size: 2vw;
+}
+
+h5 {
+	font-size: 1vw;
+}
+
+p {
+	font-size: 1em;
+}
+
+
 #box-one {
-	background-color: #549DC5;
+	background-color: #C70039;
 }
 
 #box-two {
-	background-color: #54C599;
+	background-color: #FFC300;
 	padding: 10px;
 }
