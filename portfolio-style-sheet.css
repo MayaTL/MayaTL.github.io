@@ -13,38 +13,52 @@ h1 {
 	font-stretch: ultra-expanded;
 	font-weight: bolder;
 	font-style: italic;
-	font
+	color: #FFFFFF;
 
 }
 
 h2 {
 	font-size: 4vw;
-
+	color: #FFFFFF;
 }
 
 h3 {
 	font-size: 3vw;
+	color: #FFFFFF;
 }
 
 h4 {
 	font-size: 2vw;
+	color: #FFFFFF;
 }
 
 h5 {
 	font-size: 1vw;
+	color: #FFFFFF;
 }
 
 p {
+	display: block;
 	font-size: 1em;
-	text-align: 
+	text-align: horizontal;
+	color: #FFFFFF;
 }
 
+ol {
+	color: #FFFFFF;
+}
+
+
+ul {
+	color: #FFFFFF;
+}
 
 #box-one {
 	background-color: #C70039;
 }
 
 #box-two {
-	background-color: #FFC300;
+	background-color: rgba(177,255,210,0.75);
 	padding: 10px;
+
 }
